@@ -1,0 +1,9 @@
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\bin\Debug\veritabani_project1.exe.config
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\bin\Debug\veritabani_project1.exe
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\bin\Debug\veritabani_project1.pdb
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.csprojAssemblyReference.cache
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.Form1.resources
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.Properties.Resources.resources
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.csproj.GenerateResource.cache
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.exe
+C:\Users\Proje5\Desktop\veritabani\veritabani_project1\veritabani_project1\obj\Debug\veritabani_project1.pdb
