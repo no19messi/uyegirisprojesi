@@ -1,0 +1,11 @@
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.csproj.AssemblyReference.cache
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.anasayfa.resources
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.Properties.Resources.resources
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.uyeyonetimi.resources
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.csproj.GenerateResource.cache
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.csproj.CoreCompileInputs.cache
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\bin\Debug\sporsalonu.exe.config
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\bin\Debug\sporsalonu.exe
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\bin\Debug\sporsalonu.pdb
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.exe
+C:\Users\ynsyl\OneDrive\Masaüstü\spor salonu\sporsalonu\sporsalonu\obj\Debug\sporsalonu.pdb
